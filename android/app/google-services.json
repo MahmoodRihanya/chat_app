@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "347941636138",
+    "project_id": "chat-app-ebab3",
+    "storage_bucket": "chat-app-ebab3.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:347941636138:android:e9ef3a834c20c46fdf9b53",
+        "android_client_info": {
+          "package_name": "com.example.chat"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBKApMIWsMcF2JnbjH9m5hg9Dc4yRc4vwk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
