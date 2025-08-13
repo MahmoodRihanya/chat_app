@@ -1,20 +1,47 @@
-<<<<<<< HEAD
-# chat
+Chat App
 
-A new Flutter project.
+Overview
 
-## Getting Started
+Chat App is a mobile application that allows users to chat with various AI tools such as DeepSeek, ChatGPT, Gemini, and more. Users can also communicate with friends through a public chat room. The app supports dark mode for a better user experience.
 
-This project is a starting point for a Flutter application.
+When a user selects an AI tool, they are redirected to its official website within the app.
 
-A few resources to get you started if this is your first Flutter project:
+Features
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Chat with AI tools (DeepSeek, ChatGPT, Gemini, etc.)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-=======
-# chat
->>>>>>> 0533ebab17b5ffdfff8669bdea0cc6af7098ec7a
+Public chat room for all users
+
+Dark mode support
+
+Firebase Authentication for login
+
+Firestore Database for storing messages
+
+Emoji reactions on messages
+
+
+Future Features
+
+Image sharing
+
+Voice and video calls
+
+Private chat rooms
+
+
+Tech Stack
+
+Framework: Flutter
+
+Language: Dart
+
+Backend Services: Firebase Authentication, Firestore Database
+
+
+Author
+
+Mahmood Rihanya
+LinkedIn :https://www.linkedin.com/in/mahmoodflutter
+Email: mahmoodrihanya0@gmail.com
+
